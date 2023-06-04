@@ -1,0 +1,4 @@
+﻿CS540 HW1 AI100 Reflection References
+Ngomo, Alicia. “Can Biased People Create Unbiased Algorithms?” Medium, Towards Data Science, 14 Dec. 2019, https://towardsdatascience.com/can-biased-people-create-unbiased-algorithms-a01813e0473a.
+Gunaratne, Sacha. “Why We Need Bias in Machine Learning Algorithms.” Medium, Towards Data Science, 17 Apr. 2020, https://towardsdatascience.com/why-we-need-bias-in-machine-learning-algorithms-eff0343174c0. 
+Corbett-Davies, Sam and Goel, Sharad. “The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning.” ArXiv abs/1808.00023, 14 Aug. 2018. https://arxiv.org/abs/1808.00023
